@@ -1,4 +1,7 @@
-# Pequeno módulo para Joomla 3 para exibir portfólio
+## Pequeno módulo para Joomla 3 para exibir portfólio
+
+# Dizendo não para o lado negro da força (MS) mudei para o GitLab. Manterei os arquivos aqui em respeito aos usuários e ao antigo GitHub mas estarei atualizando somente no GitLab daqui pra frente.
+https://gitlab.com/ribafs/mod_modelo
 
 Este portfolio aparece acima do conteúdo, logo no início da página.
 
